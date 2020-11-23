@@ -1,3 +1,1 @@
-# Apps From Scratch: Flutter Chat UI
-
-[YouTube: Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
+Here you will able to built UI for a chat.
